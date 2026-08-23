@@ -21,7 +21,7 @@ The analysis focuses on the following key areas:
 - **Sales Performance:** Analyze units sold and sales value across the products.
 - **Growth Opportunities:** Identify opportunities for targeted marketing and product recommendations.
 
-The SQL queries utilized to prepare the data can be found [here](https://github.com/sasha-gutierrez/Aerofit-Customer-Behavior-Analysis/blob/main/aerofit-analysis.md#data-preparation)
+The SQL queries utilized to prepare the data can be found [here](https://github.com/sasha-gutierrez/Aerofit-Customer-Behavior-Analysis/blob/main/aerofit-analysis.md#data-preparation).
 
 The SQL queries utilized to answer business questions can be found [here](https://github.com/sasha-gutierrez/Aerofit-Customer-Behavior-Analysis/blob/main/aerofit-analysis.md#business-questions-and-answers).
 
@@ -41,7 +41,7 @@ AeroFit offers three treadmill models at different price points:
 
 Before starting with the analysis, the original dataset was restructured to improve data organization. The changes included creating a Products table, adding identifiers, and establishing the relationship between products and customer records.
 
-The SQL queries utilized to prepare the data can be found [here](https://github.com/sashasarahi/Aerofit-Customer-Behavior-Analysis/blob/main/aerofit-analysis.md#data-preparation).
+The SQL queries utilized to prepare the data can be found [here](https://github.com/sasha-gutierrez/Aerofit-Customer-Behavior-Analysis/blob/main/aerofit-analysis.md#data-preparation).
 
 ***
 ## Executive Summary
