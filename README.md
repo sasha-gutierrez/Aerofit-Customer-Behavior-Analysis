@@ -56,12 +56,12 @@ AeroFit's three treadmill models serve distinct customer segments. The KP281 and
 
 ### Sales Performance
 
-- **KP281 treadmills generated the highest sales value** at $120.000, representing 36.9% of total sales in the previous three months. It also accounted for the largest share of units sold (44.4%).
+- **KP281 treadmills generated the highest sales value** at $120,000, representing 36.9% of total sales in the previous three months. It also accounted for the largest share of units sold (44.4%).
 
 ### Growth Insights
 
-- **The strongest overlap between KP281 and higher-tier customers** was found among customers with middle income, medium fitness, and medium expected weekly usage, identifying this profile as a **potential target for upselling.**
-- **KP281 customers show greater similarity to KP481 buyers**, suggesting that the strongest upselling opportunity is toward the mid-level product.
+- **The strongest overlap between KP281 and higher-tier customers** was found among customers with middle income, medium fitness, and medium expected weekly usage, making this segment a strong target for KP481 product recommendations.
+- **KP281 customers show greater similarity to KP481 buyers**, making targeted KP481 recommendations the strongest product growth opportunity.
 
 ***
 
@@ -71,7 +71,7 @@ Based on the findings above, the following recommendations have been provided:
 
 - KP281 and KP481 customers share a similar profile: 60% are partnered, average usage is three times per week, and self-rated fitness is 2, with planned weekly miles approximately 85. **Using these characteristics to build targeted campaigns for customers with similar needs, would help AeroFit reach relevant audiences with more tailored product messaging.**
 - KP281 customers with middle income, medium fitness, and medium usage show the strongest similarity to KP481 customers. **When new customers match this profile, the Customer Service team should consider recommending the KP481 treadmill as a higher-tier option, to increase mid-level product sales.**
-- KP781 accounts for 22.2% of total purchases, the lowest among the three products. **Enhancing marketing for the KP781 treadmill by positioning its advanced features toward higher-income, higher-fitness customers.**
+- KP781 accounts for 22.2% of total purchases, the lowest among the three products. **Enhancing marketing for the KP781 treadmill by positioning its advanced features toward higher-income, higher-fitness customer segment identified in the analysis.**
   
 ***
 
